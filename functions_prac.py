@@ -12,7 +12,7 @@ a = int(input("Enter first number to multiply: "))
 b = int(input("Enter second number to multiply: ")) 
 print(f"The product of {a} and {b} is {multiply(a, b)}")
 
-
+import math
 def area_and_circumference(radius):
     area =math.pi * radius * radius
     circumference = 2 * math.pi * radius

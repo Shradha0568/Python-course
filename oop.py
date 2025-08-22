@@ -47,4 +47,11 @@ private variables, these private variables can be accessed using getter and sett
 #static method:
 
 #it is the method which belongs to class instead of instance of class.
+# @staticmethod is the decorator @property decorator is the decorator make a method act like an 
+# attribute so you can access it without parentheses, but it still runs code in the background.
+
+#isinstance(method_name, class_name)
+#used to check if an object is an instance of a class or a subclass.
+
+
 
